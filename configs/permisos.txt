@@ -1,0 +1,10 @@
+Grupos de seguridad del dominio colegiodm.local
+
+- Docentes-Grupo
+  Uso: Acceso a recursos de docentes
+
+- Alumnos-Grupo
+  Uso: Aplicación de GPO de alumnos
+
+- Administrativos-Grupo
+  Uso: Gestión administrativa

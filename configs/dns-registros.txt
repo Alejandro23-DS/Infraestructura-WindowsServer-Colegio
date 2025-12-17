@@ -1,0 +1,15 @@
+Zona DNS: colegiodm.local
+
+Registros verificados:
+
+SOA (Start of Authority):
+- Servidor principal: server.colegiodm.local
+
+NS (Name Server):
+- server.colegiodm.local
+
+Registros A (Host):
+- (raíz de zona) → 192.168.10.10
+- Cliente01 → 192.168.10.20
+- server → 192.168.10.10
+- win-o2jhfu744uv → 192.168.10.10

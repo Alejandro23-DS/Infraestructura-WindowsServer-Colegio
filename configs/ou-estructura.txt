@@ -1,0 +1,8 @@
+Estructura de OU del dominio colegiodm.local
+
+- Administrativos
+- Docentes
+- Estudiantes
+- Grupos
+- Computers (por defecto)
+- Domain Controllers (sistema)

@@ -1,0 +1,6 @@
+Servidor DHCP: server.colegiodm.local
+
+Scope activo:
+- Rango IP: 192.168.10.50 - 192.168.10.200
+- Gateway: 192.168.10.1
+- DNS: 192.168.10.10
