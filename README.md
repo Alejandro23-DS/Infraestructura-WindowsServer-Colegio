@@ -1,9 +1,9 @@
-# Infraestructura Windows Server – Colegio
+# Infraestructura Windows Server para Entorno Educativo
 
 ## Descripción del proyecto
 Este proyecto documenta la implementación de una infraestructura básica de red basada en *Windows Server*, orientada a un entorno educativo (colegio), con el objetivo de centralizar la administración de usuarios, servicios de red y políticas de seguridad.
 
-La solución está basada en un dominio Active Directory (`colegio.dm`), integrando servicios esenciales como **DNS, DHCP y GPO**, siguiendo buenas prácticas de administración en entornos Windows.
+La solución está basada en un dominio Active Directory (`colegiodm.local`), integrando servicios esenciales como **DNS, DHCP y GPO**, siguiendo buenas prácticas de administración en entornos Windows.
 
 ---
 
@@ -27,6 +27,10 @@ La solución está basada en un dominio Active Directory (`colegio.dm`), integra
 
 ---
 
+## Alcance
+- Gestión de usuarios y grupos
+- Aplicación de GPO a alumnos
+- Pruebas de acceso desde equipo cliente
 ## 📂 Estructura del repositorio
 ```text
 docs/        → Documentación técnica paso a paso
