@@ -6,7 +6,6 @@
 
 📸 Evidencia:
 - ou-estructura.png
-<img width="586" height="321" alt="image" src="https://github.com/user-attachments/assets/e4463a94-086d-4197-84d7-28b84cc61044" />
 
 ### Usuarios
 Se crearon usuarios de prueba dentro de cada OU para validar
