@@ -20,4 +20,4 @@ Ambas políticas fueron vinculadas a la OU Alumnos.
 
 📸 Evidencia:
 
-- gpo-link-alumnos.png
+- gpo-vinculada.png
