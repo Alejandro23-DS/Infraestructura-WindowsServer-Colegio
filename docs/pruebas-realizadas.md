@@ -8,6 +8,10 @@
 
 - Ejecución del comando gpresult /r
 
+  📸 Evidencia:
+  
+  gpresult.png
+
 - Verificación de bloqueo de CMD en el cliente
 
   📸 Evidencia:
